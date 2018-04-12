@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CMS ATM</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+
+    <string name="name">الاسم</string>
+    <string name="email">البريد الاليكتروني</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="additional_missions">مهام إضافية</string>
+    <string name="bank_missions">مهام البنك</string>
+    <string name="fixed_missions">المهام الثابتة</string>
+</resources>
