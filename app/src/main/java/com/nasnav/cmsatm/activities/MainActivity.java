@@ -1,14 +1,10 @@
 package com.nasnav.cmsatm.activities;
 
+import android.app.Fragment;
+import android.app.FragmentManager;
 import android.content.Context;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.design.widget.TabLayout;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.view.ViewPager;
-import android.support.v7.app.AppCompatActivity;
 
 import com.nasnav.cmsatm.R;
 import com.nasnav.cmsatm.fragments.AdditionalMissionsFragment;
@@ -18,7 +14,6 @@ import com.nasnav.cmsatm.fragments.FixedMissionsFragment;
 import java.util.ArrayList;
 import java.util.List;
 
-import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 public class MainActivity extends AppCompatActivity {
 

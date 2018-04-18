@@ -46,8 +46,11 @@
     <string name="nav_signout">Sign Out</string>
 
     <string name="data_saved">Saved Sucessful</string>
-
-
+    <string name="cms">CMS</string>
+    <string name="forgetpassword">نسيت كلمه المرور ؟</string>
+    <string name="rememberme">تذكرني دائما...</string>
+    <string name="todo">TODO</string>
+    <string name="hello">مرحبا بك مجددا</string>
 
 
 </resources>

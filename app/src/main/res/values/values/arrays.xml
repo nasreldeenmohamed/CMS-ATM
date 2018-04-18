@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_item_activity_titles">
+        <![CDATA[<string-array name="nav_item_activity_titles">         <item>My Orders</item>         <item>My Profile/item>             <item>History</item>         <item>Sign out</item>     </string-array>]]></string-array>
+</resources>
